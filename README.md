@@ -1,1 +1,1 @@
-# python_jenny
+# Perform python program while learning python from Jenny's python lecture series.
