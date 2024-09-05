@@ -1,1 +1,1 @@
-# Perform python program while learning python from Jenny's python lecture series.
+# Performed python program while learning python from Jenny's python lecture series.
